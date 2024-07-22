@@ -39,5 +39,5 @@ Clone the repository to your local machine into the `userprofil_30\3d\API.x64\` 
 Navigate to `cadwork.dir` and run the following command:
 
 ```bash
-ci_start.exe path\to\your\test_endtype.3d /PLUGIN=simpleElementBuilder
+ci_start.exe path\to\your\testFile.3d /PLUGIN=simpleElementBuilder
 ```
