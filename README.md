@@ -6,6 +6,8 @@ The Simple Element Builder is a Python-based project designed to automate the cr
 It utilizes a structured approach to read geometry and attribute data, construct elements based on this data, and assign attributes to these elements dynamically.
 
 
+[![Python Tests](https://github.com/cwapi3d/simpleElementBuilder/actions/workflows/mockTest.yml/badge.svg)](https://github.com/cwapi3d/simpleElementBuilder/actions/workflows/mockTest.yml)
+
 ## Requirements
 
 - Python 3.10 or higher
